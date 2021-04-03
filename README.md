@@ -1,4 +1,4 @@
-This repository contains the report of a challenge called : Pair of images classification
+This repository contains the report of the challenge called : Pair of images classification
 
 ## Challenge description:
 
